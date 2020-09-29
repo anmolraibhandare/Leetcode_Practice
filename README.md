@@ -22,7 +22,10 @@ Here's a list of Leetcode (*This is the best place to expand your knowledge and 
 | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_167.java) | Easy | Array |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_136.java) | Easy | Array |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_122.java) | Easy | Array |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_73.java) | Medium | 2D Array |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_54.java) | Medium | 2D Array |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_48.java) | Medium | 2D Array |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_36.java) | Medium | |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_26.java) | Easy | Array |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_2.java) | Medium | Linked List |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/anmolraibhandare/Leetcode_Practice/blob/master/Leetcode/Leetcode_283.java) | Easy | Array |
